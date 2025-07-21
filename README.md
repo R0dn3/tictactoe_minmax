@@ -10,12 +10,11 @@ La IA emplea el algoritmo **Minimax** para jugar de forma óptima, evaluando tod
 ## ▶️ Cómo ejecutar
 
 1. Instala las dependencias:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
-2. Ejecuta el juego:
-   python tictactoe.py
-
-
+3. Ejecuta el juego:
+   `python tictactoe.py`
+   
 ## 🖼️ Características
 
 - Modo: Humano vs IA
